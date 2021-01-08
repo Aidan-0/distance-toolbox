@@ -3,19 +3,30 @@ from datetime import date
 import webbrowser as web
 
 # put any links here that you would like to launch with each hour
-class1 = ['']
-class2 = ['']
-class3 = ['']
-class4 = ['']
-class5 = ['']
-class6 = ['']
-foundations = ['']
+class1 = ['https://meet.google.com/cvt-zuwj-dww?pli=1&authuser=2',
+          'https://docs.google.com/forms/d/e/1FAIpQLSccrV5dP678OFz_1qkd2wbQ4sIIm0CULmpG7utUBcB9-LejTw/viewform',
+          'https://osseo.schoology.com/course/3361474020/materials']
+class2 = ['https://meet.google.com/eyw-rttk-pxm?authuser=2&pli=1',
+          'https://docs.google.com/forms/d/e/1FAIpQLScVf_JIluCDSRZ99em5DkyCWztXLyxtl-GcP53Mi1_OnXZB9Q/viewform',
+          'https://osseo.schoology.com/course/3361482598/materials']
+class3 = ['https://osseo.schoology.com/course/3361472909/materials',
+          'https://meet.google.com/kyv-zzxw-okz?pli=1&authuser=2']
+class4 = ['https://osseo.schoology.com/course/3361484314/materials',
+          'https://meet.google.com/twc-enzn-khz?pli=1&authuser=2']
+class5 = ['https://meet.google.com/_meet/vjb-ubfu-hgy?pli=1&authuser=2',
+          'https://osseo.schoology.com/course/3361474921/materials']
+class6 = ['https://meet.google.com/zsg-sbwg-zsb?authuser=2&pli=1',
+          'https://osseo.schoology.com/course/3361477200/materials',
+          'https://docs.google.com/forms/d/e/1FAIpQLSdyCN-jY43O57H1OOMQODBQk7gZLDuIWD_1uYjAnpSQ5wR75g/viewform']
+foundations = ['https://osseo.schoology.com/course/3361475949/materials',
+               'https://meet.google.com/zna-oqhi-qvg?pli=1&authuser=2']
 
 # for different tuesday/thursday links. leave blank if n/a
 class1alt = ['']
 class2alt = ['']
 class3alt = ['']
-class4alt = ['']
+class4alt = ['https://osseo.schoology.com/course/3361484314/materials',
+             'https://meet.google.com/ygp-nxaf-jpu?pli=1&authuser=2']
 class5alt = ['']
 class6alt = ['']
 
